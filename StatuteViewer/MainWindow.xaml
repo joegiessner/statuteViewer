@@ -185,6 +185,6 @@
                Margin="2,10,0,0"
                Foreground="{StaticResource MutedBrush}"
                FontFamily="Segoe UI, Candara, sans-serif"
-               Text="Loading…"/>
+               Text="Loading..."/>
   </Grid>
 </Window>

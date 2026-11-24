@@ -24,7 +24,7 @@ Public Class TitleIndexEntry
 
     Public ReadOnly Property DisplayName As String
         Get
-            Return $"Title {Number} — {Name}"
+            Return $"Title {Number} - {Name}"
         End Get
     End Property
 End Class
@@ -80,7 +80,7 @@ Public Class StatuteNode
         Get
             Select Case Kind
                 Case "title"
-                    Return $"Title {Number} — {Heading}"
+                    Return $"Title {Number} - {Heading}"
                 Case "part"
                     Return If(String.IsNullOrWhiteSpace(Heading),
                               $"Part {Number}",

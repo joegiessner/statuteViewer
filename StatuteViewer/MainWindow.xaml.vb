@@ -29,7 +29,7 @@ Class MainWindow
                                    New RoutedEventHandler(AddressOf TreeItem_Expanded),
                                    True)
 
-            StatusText.Text = $"Ready — {index.Titles.Count} titles available from local PDF archive (offline)."
+            StatusText.Text = $"Ready - {index.Titles.Count} titles available from local PDF archive (offline)."
             If _titlesRoot.Count > 0 Then
                 ShowNode(_titlesRoot(0))
             End If
@@ -50,7 +50,7 @@ Class MainWindow
         End If
         Dim lazy = TryCast(item.DataContext, LazyTitleNode)
         If lazy IsNot Nothing AndAlso Not lazy.IsLoaded Then
-            StatusText.Text = $"Loading Title {lazy.Number}…"
+            StatusText.Text = $"Loading Title {lazy.Number}..."
             lazy.EnsureLoaded()
             StatusText.Text = $"Loaded {lazy.Label}"
         End If
@@ -110,7 +110,7 @@ Class MainWindow
             Return
         End If
 
-        StatusText.Text = $"Searching for “{query}” across all titles (first run loads each title once)…"
+        StatusText.Text = $"Searching for ""{query}"" across all titles (first run loads each title once)..."
         SearchBox.IsEnabled = False
 
         _searchWorker = New BackgroundWorker()
@@ -145,13 +145,13 @@ Class MainWindow
         SearchResultsPanel.Visibility = Visibility.Visible
         SearchResultsList.ItemsSource = hits
         ReaderKind.Text = "Search results"
-        ReaderPath.Text = $"Matches for “{query}”"
+        ReaderPath.Text = $"Matches for ""{query}"""
         If hits.Count = 0 Then
             SearchSummary.Text = "No matches found."
-            StatusText.Text = $"No matches for “{query}”."
+            StatusText.Text = $"No matches for ""{query}""."
         Else
             SearchSummary.Text = $"Showing {hits.Count} match(es). Double-click a result to open it."
-            StatusText.Text = $"Found {hits.Count} match(es) for “{query}”."
+            StatusText.Text = $"Found {hits.Count} match(es) for ""{query}""."
         End If
     End Sub
 

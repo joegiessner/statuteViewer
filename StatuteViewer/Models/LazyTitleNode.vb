@@ -23,7 +23,7 @@ Public Class LazyTitleNode
             .Id = $"placeholder-{titleNumber}",
             .Kind = "unit",
             .Number = "",
-            .Heading = "Loading…",
+            .Heading = "Loading...",
             .Text = ""
         })
     End Sub
