@@ -1,0 +1,430 @@
+{
+  "source": "Local PDFs archived from https://delcode.delaware.gov/ (downloaded once).",
+  "titles": [
+    {
+      "number": 1,
+      "name": "General Provisions",
+      "file": "title1.json",
+      "stats": {
+        "title": 1,
+        "chapter": 8,
+        "section": 54,
+        "unit": 123,
+        "subchapter": 3
+      },
+      "pdf": "../pdfs/title1.pdf"
+    },
+    {
+      "number": 2,
+      "name": "Transportation",
+      "file": "title2.json",
+      "stats": {
+        "title": 1,
+        "part": 15,
+        "chapter": 15,
+        "subchapter": 9,
+        "section": 219,
+        "unit": 707
+      },
+      "pdf": "../pdfs/title2.pdf"
+    },
+    {
+      "number": 3,
+      "name": "Agriculture",
+      "file": "title3.json",
+      "stats": {
+        "title": 1,
+        "part": 55,
+        "chapter": 55,
+        "section": 765,
+        "unit": 2732,
+        "subchapter": 55
+      },
+      "pdf": "../pdfs/title3.pdf"
+    },
+    {
+      "number": 4,
+      "name": "Alcoholic Liquors and Marijuana",
+      "file": "title4.json",
+      "stats": {
+        "title": 1,
+        "chapter": 10,
+        "section": 232,
+        "unit": 1821,
+        "subchapter": 16,
+        "part": 1
+      },
+      "pdf": "../pdfs/title4.pdf"
+    },
+    {
+      "number": 5,
+      "name": "Banking",
+      "file": "title5.json",
+      "stats": {
+        "title": 1,
+        "part": 31,
+        "chapter": 31,
+        "subchapter": 72,
+        "section": 757,
+        "unit": 3236
+      },
+      "pdf": "../pdfs/title5.pdf"
+    },
+    {
+      "number": 6,
+      "name": "Commerce and Trade",
+      "file": "title6.json",
+      "stats": {
+        "title": 1,
+        "part": 57,
+        "section": 1909,
+        "unit": 11468,
+        "chapter": 76,
+        "subchapter": 83
+      },
+      "pdf": "../pdfs/title6.pdf"
+    },
+    {
+      "number": 7,
+      "name": "Conservation",
+      "file": "title7.json",
+      "stats": {
+        "title": 1,
+        "part": 70,
+        "chapter": 70,
+        "section": 1166,
+        "unit": 5668,
+        "subchapter": 59
+      },
+      "pdf": "../pdfs/title7.pdf"
+    },
+    {
+      "number": 8,
+      "name": "Corporations",
+      "file": "title8.json",
+      "stats": {
+        "title": 1,
+        "chapter": 3,
+        "subchapter": 18,
+        "section": 259,
+        "unit": 1402
+      },
+      "pdf": "../pdfs/title8.pdf"
+    },
+    {
+      "number": 9,
+      "name": "Counties",
+      "file": "title9.json",
+      "stats": {
+        "title": 1,
+        "part": 65,
+        "chapter": 65,
+        "section": 1389,
+        "unit": 3590,
+        "subchapter": 64
+      },
+      "pdf": "../pdfs/title9.pdf"
+    },
+    {
+      "number": 10,
+      "name": "Courts and Judicial Procedure",
+      "file": "title10.json",
+      "stats": {
+        "title": 1,
+        "part": 66,
+        "chapter": 65,
+        "subchapter": 69,
+        "section": 1270,
+        "unit": 3738
+      },
+      "pdf": "../pdfs/title10.pdf"
+    },
+    {
+      "number": 11,
+      "name": "Crimes and Criminal Procedure",
+      "file": "title11.json",
+      "stats": {
+        "title": 1,
+        "part": 53,
+        "chapter": 53,
+        "section": 1534,
+        "unit": 8854,
+        "subchapter": 75
+      },
+      "pdf": "../pdfs/title11.pdf"
+    },
+    {
+      "number": 12,
+      "name": "Decedents' Estates and Fiduciary Relations",
+      "file": "title12.json",
+      "stats": {
+        "title": 1,
+        "part": 36,
+        "chapter": 36,
+        "section": 813,
+        "unit": 3644,
+        "subchapter": 47
+      },
+      "pdf": "../pdfs/title12.pdf"
+    },
+    {
+      "number": 13,
+      "name": "Domestic Relations",
+      "file": "title13.json",
+      "stats": {
+        "title": 1,
+        "chapter": 22,
+        "subchapter": 58,
+        "section": 709,
+        "unit": 3584,
+        "part": 20
+      },
+      "pdf": "../pdfs/title13.pdf"
+    },
+    {
+      "number": 14,
+      "name": "Education",
+      "file": "title14.json",
+      "stats": {
+        "title": 1,
+        "part": 87,
+        "chapter": 87,
+        "subchapter": 67,
+        "section": 1238,
+        "unit": 7447
+      },
+      "pdf": "../pdfs/title14.pdf"
+    },
+    {
+      "number": 15,
+      "name": "Elections",
+      "file": "title15.json",
+      "stats": {
+        "title": 1,
+        "part": 39,
+        "chapter": 39,
+        "section": 705,
+        "unit": 2575,
+        "subchapter": 45
+      },
+      "pdf": "../pdfs/title15.pdf"
+    },
+    {
+      "number": 16,
+      "name": "Health and Safety",
+      "file": "title16.json",
+      "stats": {
+        "title": 1,
+        "part": 149,
+        "chapter": 148,
+        "subchapter": 117,
+        "section": 1959,
+        "unit": 11876
+      },
+      "pdf": "../pdfs/title16.pdf"
+    },
+    {
+      "number": 17,
+      "name": "Highways",
+      "file": "title17.json",
+      "stats": {
+        "title": 1,
+        "chapter": 19,
+        "subchapter": 15,
+        "section": 290,
+        "unit": 992,
+        "part": 3
+      },
+      "pdf": "../pdfs/title17.pdf"
+    },
+    {
+      "number": 18,
+      "name": "Insurance Code",
+      "file": "title18.json",
+      "stats": {
+        "title": 1,
+        "part": 84,
+        "chapter": 86,
+        "section": 1809,
+        "unit": 11756,
+        "subchapter": 67
+      },
+      "pdf": "../pdfs/title18.pdf"
+    },
+    {
+      "number": 19,
+      "name": "Labor",
+      "file": "title19.json",
+      "stats": {
+        "title": 1,
+        "part": 26,
+        "chapter": 27,
+        "section": 517,
+        "unit": 3310,
+        "subchapter": 26
+      },
+      "pdf": "../pdfs/title19.pdf"
+    },
+    {
+      "number": 20,
+      "name": "Military and Civil Defense",
+      "file": "title20.json",
+      "stats": {
+        "title": 1,
+        "part": 12,
+        "chapter": 12,
+        "subchapter": 13,
+        "section": 153,
+        "unit": 610
+      },
+      "pdf": "../pdfs/title20.pdf"
+    },
+    {
+      "number": 21,
+      "name": "Motor Vehicles",
+      "file": "title21.json",
+      "stats": {
+        "title": 1,
+        "part": 44,
+        "chapter": 44,
+        "section": 916,
+        "unit": 5615,
+        "subchapter": 47
+      },
+      "pdf": "../pdfs/title21.pdf"
+    },
+    {
+      "number": 22,
+      "name": "Municipalities",
+      "file": "title22.json",
+      "stats": {
+        "title": 1,
+        "chapter": 16,
+        "section": 190,
+        "unit": 684,
+        "subchapter": 11
+      },
+      "pdf": "../pdfs/title22.pdf"
+    },
+    {
+      "number": 23,
+      "name": "Navigation and Waters",
+      "file": "title23.json",
+      "stats": {
+        "title": 1,
+        "chapter": 10,
+        "subchapter": 9,
+        "section": 122,
+        "unit": 338
+      },
+      "pdf": "../pdfs/title23.pdf"
+    },
+    {
+      "number": 24,
+      "name": "Professions and Occupations",
+      "file": "title24.json",
+      "stats": {
+        "title": 1,
+        "chapter": 61,
+        "section": 1441,
+        "unit": 11753,
+        "subchapter": 99
+      },
+      "pdf": "../pdfs/title24.pdf"
+    },
+    {
+      "number": 25,
+      "name": "Property",
+      "file": "title25.json",
+      "stats": {
+        "title": 1,
+        "part": 46,
+        "chapter": 44,
+        "subchapter": 33,
+        "section": 709,
+        "unit": 3406
+      },
+      "pdf": "../pdfs/title25.pdf"
+    },
+    {
+      "number": 26,
+      "name": "Public Utilities",
+      "file": "title26.json",
+      "stats": {
+        "title": 1,
+        "chapter": 11,
+        "subchapter": 15,
+        "section": 231,
+        "unit": 1789
+      },
+      "pdf": "../pdfs/title26.pdf"
+    },
+    {
+      "number": 27,
+      "name": "Religion",
+      "file": "title27.json",
+      "stats": {
+        "title": 1,
+        "chapter": 4,
+        "section": 24,
+        "unit": 6
+      },
+      "pdf": "../pdfs/title27.pdf"
+    },
+    {
+      "number": 28,
+      "name": "Sports and Amusements",
+      "file": "title28.json",
+      "stats": {
+        "title": 1,
+        "chapter": 11,
+        "subchapter": 35,
+        "section": 219,
+        "unit": 469
+      },
+      "pdf": "../pdfs/title28.pdf"
+    },
+    {
+      "number": 29,
+      "name": "State Government",
+      "file": "title29.json",
+      "stats": {
+        "title": 1,
+        "part": 119,
+        "chapter": 119,
+        "section": 2119,
+        "unit": 11992,
+        "subchapter": 131
+      },
+      "pdf": "../pdfs/title29.pdf"
+    },
+    {
+      "number": 30,
+      "name": "State Taxes",
+      "file": "title30.json",
+      "stats": {
+        "title": 1,
+        "part": 41,
+        "chapter": 42,
+        "section": 704,
+        "unit": 3159,
+        "subchapter": 56
+      },
+      "pdf": "../pdfs/title30.pdf"
+    },
+    {
+      "number": 31,
+      "name": "Welfare",
+      "file": "title31.json",
+      "stats": {
+        "title": 1,
+        "part": 34,
+        "chapter": 34,
+        "section": 511,
+        "unit": 2249,
+        "subchapter": 24
+      },
+      "pdf": "../pdfs/title31.pdf"
+    }
+  ]
+}
