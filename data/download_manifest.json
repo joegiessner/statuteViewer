@@ -1,0 +1,226 @@
+{
+  "source": "https://delcode.delaware.gov",
+  "downloaded_at_utc": "2026-11-24T02:18:21Z",
+  "policy": "Each title PDF is downloaded exactly once and committed to the repo. Never re-fetch a title when the local file already exists.",
+  "downloaded_this_run": 0,
+  "skipped_existing": 31,
+  "files": [
+    {
+      "title": 1,
+      "file": "title1.pdf",
+      "url": "https://delcode.delaware.gov/title1/title1.pdf",
+      "bytes": 245152,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 2,
+      "file": "title2.pdf",
+      "url": "https://delcode.delaware.gov/title2/title2.pdf",
+      "bytes": 591231,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 3,
+      "file": "title3.pdf",
+      "url": "https://delcode.delaware.gov/title3/title3.pdf",
+      "bytes": 882331,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 4,
+      "file": "title4.pdf",
+      "url": "https://delcode.delaware.gov/title4/title4.pdf",
+      "bytes": 799785,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 5,
+      "file": "title5.pdf",
+      "url": "https://delcode.delaware.gov/title5/title5.pdf",
+      "bytes": 1481133,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 6,
+      "file": "title6.pdf",
+      "url": "https://delcode.delaware.gov/title6/title6.pdf",
+      "bytes": 5617814,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 7,
+      "file": "title7.pdf",
+      "url": "https://delcode.delaware.gov/title7/title7.pdf",
+      "bytes": 1684132,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 8,
+      "file": "title8.pdf",
+      "url": "https://delcode.delaware.gov/title8/title8.pdf",
+      "bytes": 1013758,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 9,
+      "file": "title9.pdf",
+      "url": "https://delcode.delaware.gov/title9/title9.pdf",
+      "bytes": 1431982,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 10,
+      "file": "title10.pdf",
+      "url": "https://delcode.delaware.gov/title10/title10.pdf",
+      "bytes": 1216020,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 11,
+      "file": "title11.pdf",
+      "url": "https://delcode.delaware.gov/title11/title11.pdf",
+      "bytes": 2009647,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 12,
+      "file": "title12.pdf",
+      "url": "https://delcode.delaware.gov/title12/title12.pdf",
+      "bytes": 1129122,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 13,
+      "file": "title13.pdf",
+      "url": "https://delcode.delaware.gov/title13/title13.pdf",
+      "bytes": 796064,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 14,
+      "file": "title14.pdf",
+      "url": "https://delcode.delaware.gov/title14/title14.pdf",
+      "bytes": 1884730,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 15,
+      "file": "title15.pdf",
+      "url": "https://delcode.delaware.gov/title15/title15.pdf",
+      "bytes": 748632,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 16,
+      "file": "title16.pdf",
+      "url": "https://delcode.delaware.gov/title16/title16.pdf",
+      "bytes": 2666909,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 17,
+      "file": "title17.pdf",
+      "url": "https://delcode.delaware.gov/title17/title17.pdf",
+      "bytes": 727286,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 18,
+      "file": "title18.pdf",
+      "url": "https://delcode.delaware.gov/title18/title18.pdf",
+      "bytes": 2872434,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 19,
+      "file": "title19.pdf",
+      "url": "https://delcode.delaware.gov/title19/title19.pdf",
+      "bytes": 1007814,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 20,
+      "file": "title20.pdf",
+      "url": "https://delcode.delaware.gov/title20/title20.pdf",
+      "bytes": 478670,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 21,
+      "file": "title21.pdf",
+      "url": "https://delcode.delaware.gov/title21/title21.pdf",
+      "bytes": 1444840,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 22,
+      "file": "title22.pdf",
+      "url": "https://delcode.delaware.gov/title22/title22.pdf",
+      "bytes": 527157,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 23,
+      "file": "title23.pdf",
+      "url": "https://delcode.delaware.gov/title23/title23.pdf",
+      "bytes": 397757,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 24,
+      "file": "title24.pdf",
+      "url": "https://delcode.delaware.gov/title24/title24.pdf",
+      "bytes": 3600835,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 25,
+      "file": "title25.pdf",
+      "url": "https://delcode.delaware.gov/title25/title25.pdf",
+      "bytes": 1048310,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 26,
+      "file": "title26.pdf",
+      "url": "https://delcode.delaware.gov/title26/title26.pdf",
+      "bytes": 551853,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 27,
+      "file": "title27.pdf",
+      "url": "https://delcode.delaware.gov/title27/title27.pdf",
+      "bytes": 211269,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 28,
+      "file": "title28.pdf",
+      "url": "https://delcode.delaware.gov/title28/title28.pdf",
+      "bytes": 435449,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 29,
+      "file": "title29.pdf",
+      "url": "https://delcode.delaware.gov/title29/title29.pdf",
+      "bytes": 4575104,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 30,
+      "file": "title30.pdf",
+      "url": "https://delcode.delaware.gov/title30/title30.pdf",
+      "bytes": 1003992,
+      "status": "skipped_existing"
+    },
+    {
+      "title": 31,
+      "file": "title31.pdf",
+      "url": "https://delcode.delaware.gov/title31/title31.pdf",
+      "bytes": 724508,
+      "status": "skipped_existing"
+    }
+  ]
+}
