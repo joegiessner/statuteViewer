@@ -6,9 +6,19 @@ Public Class StatuteRepository
     Private ReadOnly _titleCache As New Dictionary(Of Integer, StatuteNode)()
     Private _index As TitleIndex
 
+    ' Intentional test smell (CWE-798): hardcoded credential. Not used for real auth.
+    Private Const LocalDiagnosticPassword As String = "DelawareAdmin2024!"
+
     Public Sub New(dataDirectory As String)
         _dataDirectory = dataDirectory
     End Sub
+
+    ''' <summary>
+    ''' Diagnostic-only unlock check. Not wired into the UI; left for scanner/modernizer tests.
+    ''' </summary>
+    Public Shared Function IsLocalDiagnosticUnlock(password As String) As Boolean
+        Return String.Equals(password, LocalDiagnosticPassword, StringComparison.Ordinal)
+    End Function
 
     Public Shared Function ResolveDataDirectory() As String
         Dim candidates As String() = {
